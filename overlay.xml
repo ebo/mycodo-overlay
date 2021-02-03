@@ -1,0 +1,13 @@
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>mycodo-overlay</name>
+		<description>Unofficial Mycodo Gentoo Overlay</description>
+		<homepage>https://github.com/kizniche/Mycodo/</homepage>
+		<owner>
+			<email>ebo@users.sourceforge.net</email>
+			<name>John (EBo) David</name>
+		</owner>
+		<source type="git">git://github.com/ebo/mycodo-overlay.git</source>
+		<feed>https://github.com/ebo/mycodo-overlay/commits</feed>
+	</repo>
+</repositories>
