@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>ebo@users.sourceforge.net</email>
+    <name>John (EBo) David</name>
+  </maintainer>
+  <longdescription lang="en">
+    Mycodo - Environmental Regulation System. 
+
+    Mycodo is open source software originally developed for the
+    Raspberry Pi that couples inputs and outputs in interesting ways
+    to sense and manipulate the environment.  This port extends
+    support for the Gentoo OS and attempts to support non- Raspberry
+    Pi builds.
+  </longdescription>
+  <use>
+  </use>
+  <upstream>
+    <!--<remote-id type="cpe">cpe:/a:git:git</remote-id>-->
+  </upstream>
+</pkgmetadata>
